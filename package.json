@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hashadhi/Google-clone/issues"
   },
-  "homepage": "https://github.com/Hashadhi/Google-clone#readme"
+  "homepage": "https://github.com/Hashadhi/Google-clone#readme",
+  "dependencies": {
+    "reset-css": "^5.0.1"
+  }
 }
