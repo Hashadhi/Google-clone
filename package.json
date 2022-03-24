@@ -1,0 +1,19 @@
+{
+  "name": "google-clone",
+  "version": "1.0.0",
+  "description": "An experimental project to clone Google website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hashadhi/Google-clone.git"
+  },
+  "author": "hashadhi <hashadhij12@gmail.com> (http://ijse.lk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hashadhi/Google-clone/issues"
+  },
+  "homepage": "https://github.com/Hashadhi/Google-clone#readme"
+}
