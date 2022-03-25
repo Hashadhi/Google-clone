@@ -177,6 +177,25 @@ main #offer-wrapper a{
     padding: 0 2px;
 }
 
+#copyright{
+    background-color: #c8cacc2d;
+    border: 1px solid #f8f9fa3b;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding:16px;
+    line-height: 27px;
+    height: 36px;
+    width:fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 5px;
+    margin: 200px auto;
+}
+
+
 /* == Footer */
 
 footer{
